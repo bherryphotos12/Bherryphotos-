@@ -2,6 +2,8 @@
 The project is a simple project that uses a playground for deployment 
 steps:
 firstly i open my playground on my chrome browser
-secondly i generated a simple token code
-when it reflected on my command page i started running it 
-after everything i started deploying the program 
+transactions ids
+at14l8gh09xtae0nk5lfwks6mzm4xwmvged0syqp2kg4s438j3n5qrsl3rnjj
+at1t3jsuhdlcnadlqvt4rug2taqpmk3w6cz5v44k5ptpq2dnh0qp5gsks7l4r
+i deploy my program on demo.leo.app
+#preview
